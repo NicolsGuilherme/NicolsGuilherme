@@ -2,7 +2,7 @@
 Desenvolvedor Back-End
 
 ## Skills
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,wasm)](https://skillicons.dev)
 
 ## Utilidades 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
