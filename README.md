@@ -2,15 +2,13 @@
 Desenvolvedor Back-End
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
 ## Utilidades 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+[![My Skills](https://skillicons.dev/icons?i=insomnia)](https://skillicons.dev)
 
 ## DevOps
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
 
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-nicolasguilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/
