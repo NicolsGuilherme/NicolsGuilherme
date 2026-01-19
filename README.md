@@ -2,7 +2,7 @@
 Desenvolvedor Back-End
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,postgres)](https://skillicons.dev)
 
 ## Utilidades 
 [![My Skills](https://skillicons.dev/icons?i=insomnia)](https://skillicons.dev)
