@@ -13,5 +13,5 @@ Desenvolvedor Back-End
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/
+[![Linkedin](https://img.shields.io/badge/-nicolasguilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/
 nicolasguilherme)
